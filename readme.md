@@ -18,6 +18,12 @@ or
     npm run android
 ```
 
+- To open experimental debugger(`flipper is deprecated`)
+
+```bash
+    npx react-native start --experimental-debugger
+```
+
 ## Awesome Project
 
 - Flat Cards
