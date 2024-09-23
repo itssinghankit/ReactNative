@@ -17,3 +17,10 @@ or
 ```bash
     npm run android
 ```
+
+## Project 1
+
+- Flat Cards
+- Elevated horizontal card
+- Action - Touchable opacity, opening deep links
+- Flex,View, ScrollView, SafeAreaView, Button, etc
