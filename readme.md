@@ -18,9 +18,18 @@ or
     npm run android
 ```
 
-## Project 1
+## Awesome Project
 
 - Flat Cards
 - Elevated horizontal card
 - Action - Touchable opacity, opening deep links
 - Flex,View, ScrollView, SafeAreaView, Button, etc
+
+## Password Generator
+
+- yup
+- hooks - useState()
+- bouncy check box
+- formik
+- truthy and falsy values
+- {} and ()
