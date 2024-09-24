@@ -39,3 +39,14 @@ or
 - formik
 - truthy and falsy values
 - {} and ()
+
+## BG Color Changer
+
+- statusbar colors
+
+## Roll the Dice
+
+- Haptic feedback
+- ImageSourcePropType (TS)
+- type (TS)
+- PropsWithChildren (React)
