@@ -49,4 +49,10 @@ or
 - Haptic feedback
 - ImageSourcePropType (TS)
 - type (TS)
-- PropsWithChildren (React)
+- PropsWithChildren (React) (data class)
+
+## Currency Convertor
+
+- Interface
+- Flat List (grids)
+- Snackbar
